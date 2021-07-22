@@ -3,11 +3,11 @@
   }
   
   html {
-    background-color: lightseagreen;
+    background-color: lightsalmon;
   }
   
   section {
-    border: 1px dodgerblue solid;
+    border: 1px yellowgreen solid;
     width: 33.33%;
     float: left;
     position: relative;
@@ -15,7 +15,7 @@
     padding: 10px;
     padding-top: 60px;
     color: mistyrose;
-    background-color: darkslateblue;
+    background-color: lightcoral;
   }
   p {
     text-align: center;
@@ -30,7 +30,7 @@
   }
   
   section > span {
-    background-color: mediumorchid;
+    background-color: lightseagreen;
   }
   
   span p.title {
