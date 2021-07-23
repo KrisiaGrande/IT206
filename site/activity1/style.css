@@ -3,19 +3,19 @@
   }
   
   html {
-    background-color: lightsalmon;
+    background-color: lightgoldenrodyellow;
   }
   
   section {
-    border: 1px yellowgreen solid;
+    border: 1px green solid;
     width: 33.33%;
     float: left;
     position: relative;
   
     padding: 10px;
     padding-top: 60px;
-    color: mistyrose;
-    background-color: lightcoral;
+    color: black;
+    background-color: lightpink;
   }
   p {
     text-align: center;
